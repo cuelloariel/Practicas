@@ -1,9 +1,0 @@
-[submodule "FrontEnd"]
-	path = FrontEnd
-	url = https://github.com/cuelloariel/Practicas.git
-[submodule "BackEnd"]
-	path = BackEnd
-	url = https://github.com/cuelloariel/Practicas.git
-[submodule "QA"]
-	path = QA
-	url = https://github.com/cuelloariel/Practicas.git
